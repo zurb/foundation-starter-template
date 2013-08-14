@@ -16,7 +16,7 @@ git clone git@github.com:zurb/foundation-starter-template.git awesomeapp
 Install dependencies using:
 
 ```bash
-bundle install`
+bundle install
 ```
 
 Scaffold out your project:
